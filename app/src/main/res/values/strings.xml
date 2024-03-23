@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestITKI2</string>
+    <string name="question_text">Ви студент Грачов Д.С. групи 123-20-2?</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+</resources>
+
